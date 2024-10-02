@@ -9,4 +9,6 @@ Neste primeiro projeto do curso simulamos uma aplicação simples, operada diret
 
 Para iniciar a aplicação basta digitar no terminal o comando "npm start".
 
+## 🎬 DEMO
+
 ![accounts](https://github.com/luizcarloslzn/accounts/assets/117320155/aea8d61a-392a-4044-954f-e419dfd4a7f9)
